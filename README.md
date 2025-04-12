@@ -31,5 +31,5 @@
 
 <br><br>
 ## Код для обработки данных и обучения моделей можно просмотреть в Google Collab:
-short: https://drive.google.com/file/d/1E7AZuFdxyHnpxn6jXi77Eh7dP_YCq5KL/view?usp=sharing
+short: https://drive.google.com/file/d/1E7AZuFdxyHnpxn6jXi77Eh7dP_YCq5KL/view?usp=sharing <br>
 long: https://drive.google.com/file/d/1O_xWy2u57AnzxhWkvY64K4SPWotuhnQx/view?usp=sharing

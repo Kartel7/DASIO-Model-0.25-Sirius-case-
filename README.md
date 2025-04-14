@@ -2,7 +2,8 @@
 Исходные данные: https://github.com/MKrinitskiy/Sirius-AI4Climate-2024/blob/main/DASIO-dataset-description.md
 
 ## Описание
-Данный проект представляет собой модель для оценки потока приходящей солнечной радиации на основе характеристик оптических фотографий небосвода из датасета DASIO (25%).
+Данный проект представляет собой модель для оценки потока приходящей солнечной радиации на основе характеристик оптических фотографий небосвода из датасета DASIO (25%).<br>
+This project presents a model for estimating incoming solar radiation based on characteristics of optical sky images from the DASIO dataset (25%).
 
 ## Итоговая модель
 Итоговая модель для коротковолновой радиации: **CatBoost Regressor**<br>
